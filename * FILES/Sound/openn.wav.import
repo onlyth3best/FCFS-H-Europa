@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://mpppvnsq273x"
+path="res://.godot/imported/openn.wav-ebfc666ab30a52467369f955da302140.sample"
+
+[deps]
+
+source_file="res://* FILES/Sound/openn.wav"
+dest_files=["res://.godot/imported/openn.wav-ebfc666ab30a52467369f955da302140.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

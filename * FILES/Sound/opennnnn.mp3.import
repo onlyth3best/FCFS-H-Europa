@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bqewvwi13pr2b"
+path="res://.godot/imported/opennnnn.mp3-35fb42098b779d0de3a19b189e7afccf.mp3str"
+
+[deps]
+
+source_file="res://* FILES/Sound/opennnnn.mp3"
+dest_files=["res://.godot/imported/opennnnn.mp3-35fb42098b779d0de3a19b189e7afccf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

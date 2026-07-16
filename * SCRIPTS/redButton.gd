@@ -5,7 +5,7 @@ extends Area3D
 var IsOpen = false
 
 func interact():
-	print("you picked up this item!!")
+	print("you pressed up this button!!")
 	#queue_free() TO DELETE
 	if !IsOpen:
 		animPlayerWD.play("dooropen")
@@ -13,6 +13,7 @@ func interact():
 	else:
 		animPlayerWD.play("doorclose")
 		IsOpen = false
+	$"../../doorwalls/DoorCreak".play()
 	
 func show_prompt():
 	prompt_label.visible = true
